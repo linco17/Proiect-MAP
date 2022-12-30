@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0d5H2rCOAKDaxwNsDrZWYX790NOfvYT1a5MQ+AOXU2A3UOTDo82XwXnm23oWBYIxulR8+Grt3Op55UrKMRQgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariu\\source\\repos\\Sistem de gestiune a unei biblioteci\\Sistem de gestiune a unei biblioteci\\Sistem de gestiune a unei biblioteci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

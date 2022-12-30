@@ -1,0 +1,14 @@
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\bin\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.exe
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\bin\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.deps.json
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\bin\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.runtimeconfig.json
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\bin\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.runtimeconfig.dev.json
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\bin\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.dll
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\bin\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.pdb
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.csproj.AssemblyReference.cache
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.AssemblyInfoInputs.cache
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.AssemblyInfo.cs
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.dll
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.pdb
+C:\Users\mariu\source\repos\Sistem de gestiune a unei biblioteci\Sistem de gestiune a unei biblioteci\obj\Debug\netcoreapp3.1\Sistem de gestiune a unei biblioteci.genruntimeconfig.cache
